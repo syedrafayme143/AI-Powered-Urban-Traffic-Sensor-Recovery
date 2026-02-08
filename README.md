@@ -7,18 +7,17 @@
 > **Intelligent traffic sensor fault detection and data recovery system using machine learning and neural networks for multi-city traffic networks**
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Methodology](#methodology)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Technical Architecture](#technical-architecture)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Methodology](#-methodology)
+- [Dataset](#-dataset)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Technical Architecture](#-technical-architecture)
+- [Future Work](#-future-work)
+- [License](#-license)
 
 ## 🎯 Overview
 
